@@ -46,7 +46,7 @@
 | 数据库     | C++    | [ClickHouse](https://github.com/ClickHouse/ClickHouse)                              | 高性能列式数据库            | OBS                                          | v24.10                           |      |
 | 通用应用    | Java   | [StreamSets](https://github.com/streamsets/datacollector-oss)                       | 数据流采集平台             | OBS                                          | v5.11                            |      |
 | 通用应用    | Java   | [DataX](https://github.com/alibaba/DataX)                                           | 异构数据同步工具            | OBS                                          | v4.0                             |      |
-| 数据流处理   | Java   | [Apache NiFi](https://github.com/apache/nifi)                                       | 数据流编排与可视化集成         | CCE、ECS、OBS、SMN                              | v1.27                            |      |
+| 数据流处理   | Java   | [Apache NiFi](https://github.com/apache/nifi)                                       | 数据流编排与可视化集成         | CCE、ECS、OBS、SMN、MRS、AOM                              | v1.27                            |      |
 | 数据库     | Java   | [CrateDB](https://github.com/crate/crate)                                           | 分布式时序数据库            | OBS                                          | v5.9                             |      |
 | API 网关  | Java   | [Apache ShenYu](https://github.com/apache/shenyu)                                   | 高性能 API 网关          | EulerOS、LTS                                  | v2.6                             |      |
 | 调度与编排   | Java   | [Alluxio](https://github.com/Alluxio/alluxio)                                       | 数据缓存与分布式存储调度        | OBS                                          | v3.1                             |      |
