@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">OSS-getting-started-on-huaweicloud</h1>
+    <h1 align="center">huaweicloud-oss-quickstart</h1>
   <p align="center">
     <strong>English</strong> | <a href="README.md"><strong>简体中文</strong></a>
 </p>
@@ -9,7 +9,7 @@ This project collects information about **open-source projects adapted for Huawe
 
 > ***If this project helps you, please click the `Star` button in the upper right to support us!***
 
-> ***Contribute: If you find an open-source project that has not yet been adapted for Huawei Cloud, feel free to [submit an ISSUE](https://github.com/HuaweiCloudDeveloper/oss-getting-started-on-huaweicloud/issues).  
+> ***Contribute: If you find an open-source project that has not yet been adapted for Huawei Cloud, feel free to [submit an ISSUE](https://github.com/HuaweiCloudDeveloper/huaweicloud-oss-quickstart/issues).  
 Please provide the open-source software name, version, and adaptation needs or issues. We will enhance the ecosystem support based on your feedback.***
 
 ## Overview of Huawei Cloud Open-Source Ecosystem Adaptation Projects
@@ -87,7 +87,7 @@ Please provide the open-source software name, version, and adaptation needs or i
 We welcome community developers and enterprise users to join the ecosystem adaptation effort:
 
 1. Fork this repository and submit a Pull Request;
-2. Or submit adaptation requests via the [Issues section](https://github.com/HuaweiCloudDeveloper/oss-getting-started-on-huaweicloud/issues);
+2. Or submit adaptation requests via the [Issues section](https://github.com/HuaweiCloudDeveloper/huaweicloud-oss-quickstart/issues);
 3. Please include the open-source project name, version, and adaptation scenario details.
 
 ---
