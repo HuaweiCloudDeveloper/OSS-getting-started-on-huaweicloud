@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">OSS-getting-started-on-huaweicloud</h1>
+    <h1 align="center">huaweicloud-oss-quickstart</h1>
   <p align="center">
     <a href="README_en.md"><strong>English</strong></a> | <strong>简体中文</strong>
 </p>
@@ -8,8 +8,7 @@
 
 > ***如果本项目对您有帮助，请点击右上角 `Star` 支持我们！***
 
-> ***
-*参与共建：如果您发现某个开源项目在华为云上还未适配，欢迎[提交 ISSUE](https://github.com/HuaweiCloudDeveloper/oss-getting-started-on-huaweicloud/issues)
+> ***参与共建：如果您发现某个开源项目在华为云上还未适配，欢迎[提交 ISSUE](https://github.com/HuaweiCloudDeveloper/huaweicloud-oss-quickstart/issues)
 。请提供开源软件名称、版本、适配需求或问题，我们将结合您的反馈完善生态适配支持。***
 
 # 华为云开源生态适配项目总览
@@ -87,7 +86,7 @@
 欢迎社区开发者与企业用户参与生态适配项目的共建：
 
 1. Fork 本仓库并提交 Pull Request；
-2. 或通过 [Issue 区](https://github.com/HuaweiCloudDeveloper/oss-getting-started-on-huaweicloud/issues) 提交适配需求；
+2. 或通过 [Issue 区](https://github.com/HuaweiCloudDeveloper/huaweicloud-oss-quickstart/issues) 提交适配需求；
 3. 提交时请附带开源项目名称、版本、适配场景说明等信息。
 
 ---
