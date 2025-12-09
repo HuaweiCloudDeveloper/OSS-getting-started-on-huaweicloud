@@ -41,7 +41,7 @@
 | 通用应用    | Python | [Pandas](https://github.com/pandas-dev/pandas)                                      | 数据分析与处理             | OBS                                          | v2.2                             |      |
 | 通用应用    | Python | [MLflow](https://github.com/mlflow/mlflow)                                          | 模型管理与实验追踪           | OBS                                          | v2.18                            |      |
 | 数据库     | C++    | [Milvus](https://github.com/milvus-io/milvus)                                       | 向量数据库               | OBS                                          | v2.5                             |      |
-| 数据库     | C++    | [Doris](https://github.com/apache/doris)                                            | MPP 分析型数据库          | MRS                                          | v3.0                             |      |
+| 数据库     | C++    | [Doris](https://github.com/apache/doris)                                            | MPP 分析型数据库          | MRS 、鲲鹏云                                         | v3.0                             |      |
 | 数据库     | C++    | [ClickHouse](https://github.com/ClickHouse/ClickHouse)                              | 高性能列式数据库            | OBS                                          | v24.10                           |      |
 | 通用应用    | Java   | [StreamSets](https://github.com/streamsets/datacollector-oss)                       | 数据流采集平台             | OBS                                          | v5.11                            |      |
 | 通用应用    | Java   | [DataX](https://github.com/alibaba/DataX)                                           | 异构数据同步工具            | OBS                                          | v4.0                             |      |
